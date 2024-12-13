@@ -1,0 +1,55 @@
+
+header, main, footer{
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(173, 33, 33);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+main{
+    background-color: white;
+    padding: 2%;
+    color: black;
+}
+
+
+
+
+label{
+    display: block;
+}
+
+.no{
+    display: inline;
+}
+
+fieldset{
+    width: 20%;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: rgb(31, 31, 31);
+}
+header {
+    text-align: center;
+    padding: 40px 192px;
+    background-color: #333;
+    color: #fff;
+}
